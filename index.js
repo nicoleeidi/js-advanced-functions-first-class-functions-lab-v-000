@@ -9,4 +9,5 @@ const returnLastTwoDrivers= function(drivers){
   const array= []
   array.push(drivers[-1])
   array.push(drivers[-2])
+  return array
 }
